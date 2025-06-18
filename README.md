@@ -1,2 +1,12 @@
 📝 Project Description
+
 Interview Prep AI is a MERN stack web app designed to help users simulate job interviews with dynamic AI-generated questions and feedback powered by Google Gemini AI. The app delivers an interactive and responsive experience to help users prepare for interviews effectively. The entire app — both frontend and backend — is deployed on Vercel using serverless functions for the Node.js/Express backend.
+
+---
+
+PurePudding
+
+awusetin@gmail.com
+
+18 - 05 - 25
+
